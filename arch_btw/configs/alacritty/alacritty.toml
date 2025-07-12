@@ -1,0 +1,8 @@
+[font]
+size = 20.0
+normal = { family = "FiraCode Nerd Font", style = "Regular" }
+
+[env]
+TERM = "alacritty"
+
+
