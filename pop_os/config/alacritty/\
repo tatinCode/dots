@@ -1,0 +1,10 @@
+shell:
+  program: /bin/zsh
+  args:
+    - --login
+  
+font:
+  normal:
+    family: "MesloLGS NF"
+    style: Regular
+  size: 12.0
