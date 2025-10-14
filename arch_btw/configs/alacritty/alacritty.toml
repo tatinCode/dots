@@ -1,8 +1,13 @@
 [font]
-size = 20.0
+size = 32.0
 normal = { family = "FiraCode Nerd Font", style = "Regular" }
 
 [env]
 TERM = "alacritty"
+
+[general]
+import = [
+    "~/.config/alacritty/themes/dist/rose-pine.toml"
+]
 
 

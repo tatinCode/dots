@@ -1,3 +1,5 @@
+--this is if you want a fat cursor
+--I'm a pussy so no
 --vim.opt.guicursor = ""
 
 vim.opt.nu = true
